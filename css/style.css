@@ -1,0 +1,60 @@
+        section.contenue{
+            background-color: #4A3677;
+            overflow: hidden;
+           margin: 30px auto;
+        }
+         section.appropos  div.image{
+            height: 348px;
+        }
+        section.appropos  div.image img{
+            width: 100%;
+            padding: 15px;
+        }
+        section.presentation .competences div.barre{
+            height: 10px;
+            background-color: #7F7C7C;
+            margin: 10px 20px;
+            width: 50%;
+        }
+        .h2{
+            color:#B8EBDC;
+            padding: 16px;
+        }
+        p{
+            font-weight: bold;
+            font-size: 20px;
+            padding-left: 30px;
+        }
+        ul{
+            padding: 30px;
+        }
+        li{
+            padding: 15px;
+            font-size: 20px;
+        }
+
+        section.contenue div.top{
+            height: 80px;       
+        }
+        section.contenue div.top img{
+            width: 100%;
+            position:relative;
+            top:-45px;
+        }
+        section.contenue div.bottom{
+            height: 80px;
+        }
+        section.contenue div.bottom img{
+            width: 100%;
+            position: relative;
+            bottom:-35px;
+        }
+        section.presentation div.experience p.logo{
+            width: 25%;
+            margin: 5px auto;
+                
+        }
+        div.competences div.professionel span ,div.langues span{
+            font-size: 16px;
+            margin: 10px 20px;
+        }
